@@ -1,4 +1,12 @@
-# comp313p_stdr
+# Exploration of Path Finding Algorithms
+
+Code base of exploring Best-First (Greedy), Dijkstra's, A*, and Theta* path finding algorithm performance.
+
+The report is provided in 'Path_Finding_Report.pdf'.
+
+Created together with Nikolaos Manginas: https://github.com/nickmagginas/.
+
+---
 
 Changed general_forward_search_algorithm.py and controller_base.py
 
